@@ -2,18 +2,10 @@
 
 <p align="left">My name is Nwadike Chidinma Queen I am from Nigeria.</p>
 
-###
-
-<h2 align="left">About me</h2>
 
 ###
 
 <p align="left">📚 I'm currently learning Data science and Machine Learning<br><br>🎯 Goals: Looking forward to working with like minds, making impact and creating a change<br><br>🎲 Fun fact:</p>
-
-###
-
-<h2 align="left">I code with Jupyter notebook, google colab and VScode</h2>
-
 
 ###
 
